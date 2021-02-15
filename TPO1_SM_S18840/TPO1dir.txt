@@ -1,0 +1,1 @@
+Następnie na tej instancji wywołana jest metoda format. Jako pierwszy argument przyjmuje ona łańcuch formatujący. Następnie może
